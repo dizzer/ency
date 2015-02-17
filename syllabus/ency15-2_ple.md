@@ -2,6 +2,8 @@
 
 ## Kort
 
+### feedback blogs
+
 ### git demo
 
 Demonstratie van git en github.
