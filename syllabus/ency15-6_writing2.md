@@ -62,7 +62,7 @@ Epistemologie, ook wel kennisleer, wetenschapstheorie, wetenschapsfilosofie, "de
 
 ![](http://ecx.images-amazon.com/images/I/41vcAXFwtOL._AA160_.jpg)
 
-1. Richie, Donald. 2005. A Hundred Years of Japanese Film: A Concise History, with a Selective Guide to DVDs and Videos. 
+vb 1. Richie, Donald. 2005. A Hundred Years of Japanese Film: A Concise History, with a Selective Guide to DVDs and Videos. 
 
 Verschillende uitgaves, verschillende invalshoeken
 
@@ -73,25 +73,25 @@ Verschillende uitgaves, verschillende invalshoeken
 
 ![](http://ecx.images-amazon.com/images/I/21QPwcv%2BHsL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg)
 
-2. Napier, Susan J. 2001. Anime from Akira to Princess Mononoke: Experiencing Contemporary Japanese Animation. Palgrave Macmillan. 
+vb 2. Napier, Susan J. 2001. Anime from Akira to Princess Mononoke: Experiencing Contemporary Japanese Animation. Palgrave Macmillan. 
 
 Gebruikt verhaaltheorie om anime enerzijds aan te sluiten bij de traditionele Japanse populaire cultuur, en anderzijds om het aanslaan van anime in andere culturen te verklaren. https://nl.wikipedia.org/wiki/Narratologie
 
 ![](http://ecx.images-amazon.com/images/I/41ZGGHT77WL._AA160_.jpg)
 
-3. McVeigh, Brian J. 2002. Japanese higher education as myth. M.E.Sharpe: Armonk, New York. 
+vb 3. McVeigh, Brian J. 2002. Japanese higher education as myth. M.E.Sharpe: Armonk, New York. 
 
 Gebruikt de theorie van Baudrillard om de dysfuncties van het Japans hoger onderwijs te kaderen en te verklaren.
 
 ![](http://ecx.images-amazon.com/images/I/516%2BASbP%2B-L._AA160_.jpg)
 
-4. Ann-Sofie Van Enis [Japans inpakcultuur](http://japanologie.arts.kuleuven.be/sites/default/files/uploads/bijlagen/Inpakcultuur_Van_Enis.pdf) 
+vb 4. Ann-Sofie Van Enis [Japans inpakcultuur](http://japanologie.arts.kuleuven.be/sites/default/files/uploads/bijlagen/Inpakcultuur_Van_Enis.pdf) 
 
 culturele antropologie
 
 ![Alt text](http://ecx.images-amazon.com/images/I/51awmOiKwzL._AA160_.jpg "Optional title")
 
-5. Beniger, James. 1986. _The Control Revolution: Technological and
+vb 5. Beniger, James. 1986. _The Control Revolution: Technological and
 Economic Origins of the Information Society._  Harvard Univ Press.
 
 ## Academisch schrijven
