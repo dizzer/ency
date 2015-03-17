@@ -9,7 +9,7 @@ In deze context bedoelen we met 'schrijven' de volgende dingen:
 
 Punt 2,3 en 4 behandelen we in de DH sessies na de paasvakantie.
 
-## Doelstellingen vandaag:
+## Doelstellingen vandaag
 
 1. De kenmerken van het __wetenschappelijk schrijfformaat__ leren onderkennen en toepassen
 2. De functie van een __methodologisch kader__ in het wetenschappelijk formaat leren onderkennen en toepassen  
@@ -29,7 +29,7 @@ met in de eerste plaats aandacht voor het falsificatie-beginsel en de daarmee sa
 
 Een tweede prominent kenmerk is het gebruik van theorie en methodologie als sturingsmechanisme.
 
-## Epistemologie
+### Epistemologie
 
 Epistemologie, ook wel kennisleer, wetenschapstheorie, wetenschapsfilosofie, "de studie van gerechtvaardigde kennis", the philosophy of learning en zelfs de prima philosophia genoemd houdt zich bezig met drie kernvragen:
 
@@ -42,7 +42,7 @@ Epistemologie, ook wel kennisleer, wetenschapstheorie, wetenschapsfilosofie, "de
 * Paul Feyerabend: _against method_
 * Karl Popper: _falsification_
 
-## Het falsificatiebeginsel
+### Het falsificatiebeginsel
 
 * op het niveau van schrijfstijl: een droge schrijfstijl, gekenmerkt door precisie. Wetenschappelijke teksten vermijden ambiguïteit, onduidelijkheid, ironisering, emotie; omgekeerd zijn ook stadhuiswoorden uit den boze. Ook uniformiteit (in bronverwijzing en dergelijke) behoort daarom tot de wetenschappelijke vereisten
 * op het niveau van tekststructuur
@@ -50,19 +50,19 @@ Epistemologie, ook wel kennisleer, wetenschapstheorie, wetenschapsfilosofie, "de
    * anderzijds circulair: wetenschappelijke teksten reflecteren zichzelf in zichzelf: in de inleiding wordt er vooruitgekeken op redeneringen... die ontwikkeld worden in de verschillende paragrafen van het corpus. Conclusies blikken terug op tekststructuur en bewijsvoering
 * op het niveau van relaties met andere teksten: referenties, voetnoten, uitgebreide bronverwijzingen schrijven de tekst in in het wetenschappelijke veld. De wetenschappelijke tekst beschrijft haar relatie met andere teksten. Besluit: Wetenschap heeft een systemische dynamiek, of: (wetenschappelijk geheugen (en niet: genialiteit, ...) is de motor van de wetenschap
 
-## Methodologisch kader
+### Methodologisch kader
 
-### functie methodologisch kader
+#### functie methodologisch kader
 
 1. structureren van verschillende soorten informatie en eigen inbreng rond een onderzoeksvraag
 2. brengt concepten aan waarmee je een onderzoeksvraag kan uitwerken 
 3. inschrijven denkschool, _een bril op bronnen_, plaatsen van gevonden bronnen in een diepere discussie (aansluiten bij een denklijn/traditie)
 
-### voorbeelden theorie als structuur
+#### voorbeelden theorie als structuur
 
 ![](http://ecx.images-amazon.com/images/I/41vcAXFwtOL._AA160_.jpg)
 
-vb 1. Richie, Donald. 2005. A Hundred Years of Japanese Film: A Concise History, with a Selective Guide to DVDs and Videos. 
+vb 1. Richie, Donald. 2005. _A Hundred Years of Japanese Film: A Concise History, with a Selective Guide to DVDs and Videos._
 
 Verschillende uitgaves, verschillende invalshoeken
 
@@ -73,7 +73,7 @@ Verschillende uitgaves, verschillende invalshoeken
 
 ![](http://ecx.images-amazon.com/images/I/21QPwcv%2BHsL._SL160_PIsitb-sticker-arrow-dp,TopRight,12,-18_SH30_OU01_AA160_.jpg)
 
-vb 2. Napier, Susan J. 2001. Anime from Akira to Princess Mononoke: Experiencing Contemporary Japanese Animation. Palgrave Macmillan. 
+vb 2. Napier, Susan J. 2001. _Anime from Akira to Princess Mononoke: Experiencing Contemporary Japanese Animation._ Palgrave Macmillan. 
 
 Gebruikt verhaaltheorie om anime enerzijds aan te sluiten bij de traditionele Japanse populaire cultuur, en anderzijds om het aanslaan van anime in andere culturen te verklaren. https://nl.wikipedia.org/wiki/Narratologie
 
@@ -94,6 +94,14 @@ culturele antropologie
 vb 5. Beniger, James. 1986. _The Control Revolution: Technological and
 Economic Origins of the Information Society._  Harvard Univ Press.
 
+"Why do we find ourselves living in an Information society? And why is this change recent -- or is it?"
+
+understand the new centrality of information
+
+vb 6. Acemoglu, Daron, and James Robinson. 2012. _Why Nations Fail: The Origins of Power, Prosperity, and Poverty._ 1st ed. Crown Business.
+
+Waarom is Egypte zoveel armer dan de VS?
+
 ## Academisch schrijven
 
 * Wat is academisch schrijven? Helaas, er bestaat geen eenduidige en allesomvattende definitie. 
@@ -109,16 +117,28 @@ Economic Origins of the Information Society._  Harvard Univ Press.
 
 ### Wat hoort in een inleiding?
 
-1. Exacte objectbepaling
+1. Exacte objectbepaling (probleemstelling en onderzoeksvraag)
 2. Wetenschappelijke motivatie
 3. Methodologisch kader
 4. Structuur artikel
 
-## Oefeningen wetenschappelijk schrijven
+#### Voorbeeld inleiding
 
-1. Vergelijken van wetenschappelijke en niet-wetenschappelijke artikels/boeken en daaruit de kenmerken van wetenschappelijkheid afleiden
-2. Omschrijven van het gebruik van theorie (welke theorie en hoe gebruikt) in een wetenschappelijk boek of artikel dat je als bron gebruikt voor je individueel werk
-3. Uitschrijven van de inleiding van je individueel werk - indien dit niet lukt is er eigenlijk nog geen onderzoeksvraag
+_Media en publieke opinie te midden van het Senkaku dispuut_. (te vinden op het lab)
+
+## Oefeningen wetenschappelijk schrijven 
+
+in blogformaat tegen uiterlijk zondagavond 22/3
+
+1. Vergelijken van wetenschappelijke en niet-wetenschappelijke artikels/boeken en daaruit de kenmerken van wetenschappelijkheid afleiden (lijst artikels infra)
+2. Omschrijven van het gebruik van theorie (welke theorie en hoe gebruikt) in een wetenschappelijk boek of artikel dat je als bron gebruikt voor je individueel werk 
+3. Analyseer en annoteer een inleiding van een individuele oefening encylopedie in het archief. Goeie kandidaten van vorig jaar zijn:
+    - Cyberveiligheid in Japan: blinde vlek
+    - Sword Culture: Katana vs. Longsword, Japan vs. Europa
+    - Kunst en onderwijs
+    - Japanse annexatie van Korea
+    - Een beschrijving van de opkomst en bestendiging van de vrouwenbeweging door de grondwet van 1947 in Japans, van 1925 tot 1955
+4. Uitschrijven van de inleiding van je individueel werk - indien dit niet lukt is er eigenlijk nog geen onderzoeksvraag
 
 ### Lijst artikels
 
@@ -151,3 +171,4 @@ Economic Origins of the Information Society._  Harvard Univ Press.
 25.“Red Star Rising: With Global Capitalism on Ropes, Communism Gains in Japan › Japan Today: Japan News and Discussion.” 2011. Accessed January 17. http://www.japantoday.com/category/lifestyle/view/red-star-rising-with-global-capitalism-on-ropes-communism-gains-in-japan.
 
 > Writing 20 Minutes Every. Single. Day.
+
