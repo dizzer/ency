@@ -174,3 +174,6 @@ in blogformaat tegen uiterlijk zondagavond 22/3
 
 > Writing 20 Minutes Every. Single. Day.
 
+## Voorbereiding volgende week (_Citation_)
+
+Blog de problemen die je hebt ondervonden bij het weergeven van bronnen, in het algemeen en in zotero in het bijzonder.
