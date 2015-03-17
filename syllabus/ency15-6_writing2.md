@@ -98,9 +98,11 @@ Economic Origins of the Information Society._  Harvard Univ Press.
 
 understand the new centrality of information
 
+![Alt text](http://ecx.images-amazon.com/images/I/51XYz-Um3pL._AA160_.jpg "Optional title")
+
 vb 6. Acemoglu, Daron, and James Robinson. 2012. _Why Nations Fail: The Origins of Power, Prosperity, and Poverty._ 1st ed. Crown Business.
 
-Waarom is Egypte zoveel armer dan de VS?
+Waarom is Egypte zoveel armer dan de VS? Zou het aan de instellingen liggen?
 
 ## Academisch schrijven
 
