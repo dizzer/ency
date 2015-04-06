@@ -9,4 +9,4 @@
 5. 10/3/15 [Writing](./ency15-5_writing.md)
 6. 17/3/15 [Writing2](./ency15-6_writing2.md)
 7. 24/3/15 [Citation](./ency15-7_citation.md)
-8. 31/3/15 [Feedback / LSIN](.ency15-8_feedback_lsin.md) 
+8. 31/3/15 [Feedback / LSIN](./ency15-8_feedback_lsin.md) 
