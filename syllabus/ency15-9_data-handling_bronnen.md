@@ -32,7 +32,7 @@ Bronnen data handling
 
 > This course explores the possibilities, the methods, and the tools for working with large cultural data sets, with a particular focus on data visualization and the analysis of visual media (images and video). It also covers relevant work from digital art and design, media theory and software studies...
 
-*  [Scraping for journalists](https://leanpub.com/scrapingforjournalists) <!-- - dilia folder data, evernote - url? -->
+*  [Scraping for journalists](https://leanpub.com/scrapingforjournalists)
 > Scraping for Journalists introduces you to a range of scraping techniques - from very simple scraping techniques which are no more complicated than a spreadsheet formula, to more complex challenges such as scraping databases or hundreds of documents.
 * [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/index.html)
 * [Teaching History in the Digital Age](http://quod.lib.umich.edu/d/dh/12146032.0001.001/1:7/--teaching-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)] Already, data-mining software makes it possible to link sources on the basis of date, location, names, institutional affiliations, and all the other ways historians triangulate between and among sources. In the past we have had to do that triangulation by hand, and so making these connections is often a laborious and imperfect process. With each passing week, more and more historical data appears online marked up in ways that make it possible for us to use new software tools to work with these data. Now software can make connections for us and possibly even propose new ways of thinking about things such as relationships between individuals.[3] As Greg Crane pointed out several years ago, 
