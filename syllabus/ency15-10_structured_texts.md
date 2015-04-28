@@ -1,11 +1,10 @@
 
----  
+<! --  
 title: Gestructureerde tekst 
 author: Hans Coppens  
 date: April 20, 2015  
-bibliography: progr_hist.bib
+bibliography: progr_hist.bib -->
 
----  
 
 Gestructureerde tekst
 =====================
@@ -59,7 +58,7 @@ Moreover, time spent formatting your document in MS Word or Open Office is waste
 
 ### tools
 
-- sublime text (plugins marked, evernote, pandoc,git)
+- [sublime text](https://www.sublimetext.com/) (plugins marked, evernote, pandoc,git)
 - git [^2]
 - markdown
 - iterm
@@ -103,7 +102,7 @@ Moreover, time spent formatting your document in MS Word or Open Office is waste
 6. via pandoc naar mediawiki & omgekeerd
     - `$ pandoc -t mediawiki -o unified_workflow.wiki ency15-10_structured_texts.md`
 7. reveal.js
-    - toon github repo
+    - [github repo](https://github.com/hakimel/reveal.js), [features](http://lab.hakim.se/reveal-js/#/)
     - cp folder, edit index.html, koppel md-bestand
     - slides in bestand aangeven    
     - resultaat tonen op locale webserver (node.js,grunt)
