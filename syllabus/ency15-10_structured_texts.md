@@ -1,10 +1,4 @@
 
-<! --  
-title: Gestructureerde tekst 
-author: Hans Coppens  
-date: April 20, 2015  
-bibliography: progr_hist.bib -->
-
 
 Gestructureerde tekst
 =====================
