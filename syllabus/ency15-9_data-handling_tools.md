@@ -46,8 +46,10 @@ In onderstaande lijst zit absoluut geen enkele vorm van structuur of volgorde. D
 > a free software environment for statistical computing and graphics
 * [NodeXL](https://nodexl.codeplex.com/)
 > a template for Microsoft® Excel® 2007, 2010 and 2013 that makes it easy to explore network graphs.
-* Palladio toevoegen ¬¬¬
+* [Palladio](http://palladio.designhumanities.org/#/), web-based visualisatie tool
 * Beautiful soup toevoegen ¬¬¬
+* Paper machines toevoegen 
+* RMarkdown
 
 ### Webservices
 * [Datasift](http://datasift.com/get-started/)

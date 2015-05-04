@@ -92,7 +92,7 @@ Moreover, time spent formatting your document in MS Word or Open Office is waste
     - toc
     - toc links
     - footnotes & citations
-    - `$ pandoc -S -o unified_workflow.pdf ency15-10_structured_texts.md -V geometry:margin=1in -N --toc`
+    - `$ pandoc -S -o unified_workflow.pdf ency15-10_structured_texts.md -V geometry:margin=1in -N --toc --filter pandoc-citeproc`
 6. via pandoc naar mediawiki & omgekeerd
     - `$ pandoc -t mediawiki -o unified_workflow.wiki ency15-10_structured_texts.md`
 7. reveal.js
