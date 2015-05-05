@@ -1,5 +1,7 @@
-Webscraping
-===========
+Webschrapen en visualiseren van data
+====================================
+
+## Webscraping
 
 Data die niet in databases zit van het web halen en verwerken. __Zoeken naar structuur__. 
 
@@ -9,7 +11,7 @@ Voorbeeld outwit hub of chromescraper.
 
 Bron: Webscraping for journalists.
 
-### Visualiseren data
+## Visualiseren data
 
 1. find data (cfr vorige sessie)
 2. clean data: bijvoorbeeld met [OpenRefine](http://openrefine.org/)
@@ -17,7 +19,7 @@ Bron: Webscraping for journalists.
 4. publish data: bijvoorbeeld met [Gephi](http://gephi.org/)
 5. [Overzicht soorten visualisaties](http://hci.stanford.edu/jheer/files/zoo/)
 
-### Coderen
+## Coderen
 
 [Code is law](https://www.socialtext.net/codev2/Code%20Is%20Law)
 

@@ -48,8 +48,9 @@ In onderstaande lijst zit absoluut geen enkele vorm van structuur of volgorde. D
 > a template for Microsoft® Excel® 2007, 2010 and 2013 that makes it easy to explore network graphs.
 * [Palladio](http://palladio.designhumanities.org/#/), web-based visualisatie tool
 * Beautiful soup toevoegen ¬¬¬
-* Paper machines toevoegen 
+* [paper machines](http://papermachines.org), topic modeling tool voor zotero
 * RMarkdown
+* [SQLite Manager](https://github.com/lazierthanthou/sqlite-manager)
 
 ### Webservices
 * [Datasift](http://datasift.com/get-started/)
