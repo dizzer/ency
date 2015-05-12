@@ -37,7 +37,7 @@ een andere definitie van het concept "leren"
 - teken je ideale portfolio
 - welke aktiviteiten zou je opnemen?
 - zou je de onderdelen van je portfolio graag door de universiteit geattesteerd zien. Zo ja, op welke manier?
-- embed je geschiedenis-wikiartikel door een stukje code aan een 'portfolio-post' toe te voegen. Kies voor tekstopmaak 'full html' onderaan het veld 'embed post'. Klik 'disable rich-text' en plak onderstaande snippet in het veld: 
+- embed je geschiedenis-wikiartikel door een stukje code aan een 'portfolio-post' toe te voegen. Plak onderstaande snippet in het veld 'embed post'. 
 
 `<script type="text/javascript" charset="utf-8" 
 src="http://mediawiki.arts.kuleuven.be/geschiedenisjapan/extensions/embedPage/getPage.php?title=/geschiedenisjapan/index.php/titel_artikel"></script>`
