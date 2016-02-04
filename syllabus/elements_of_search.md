@@ -2,10 +2,10 @@
 
 1. deep web
 2. filter bubble
-3. crap detection (sessie 2/12)
-4. beelden zoeken
 4. searching the future
 5. niet-academisch onderzoek
+6. beelden zoeken
+6. crap detection (sessie 2/12)
 
  
 ### The Deep Web
@@ -20,7 +20,7 @@ Deep Web resources classified  ([wikipedia](https://en.wikipedia.org/wiki/Deep_W
 * Contextual Web: pages with content varying for different access contexts 
 * Scripted content: pages that are only accessible through links produced by JavaScript 
 * Non-HTML/text content: textual content encoded in multimedia files or specific file formats not handled by search engines.
-*  [http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/InvisibleWeb.html](http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/InvisibleWeb.html); deze tekst geeft duidelijk weer wat bedoeld wordt met het 'deep web' met betrekking tot databases en geeft ook aan wat de oorzaken en oplossingen zijn.
+* [http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/InvisibleWeb.html](http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/InvisibleWeb.html); deze tekst geeft duidelijk weer wat bedoeld wordt met het 'deep web' met betrekking tot databases en geeft ook aan wat de oorzaken en oplossingen zijn.
 
  
 #### No longer small pieces loosely joined
